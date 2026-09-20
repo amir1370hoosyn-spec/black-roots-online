@@ -1,0 +1,12 @@
+{
+  "name": "black-roots-multiplayer",
+  "version": "1.0.0",
+  "description": "Black Roots multiplayer server",
+  "main": "server-mobile.js",
+  "scripts": {
+    "start": "node server-mobile.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
